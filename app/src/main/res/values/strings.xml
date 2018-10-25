@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PhishApp</string>
+    <string name="login_greeting_1">Welcome!</string>
+    <string name="login_greeting_2">Please login or register</string>
+    <string name="register_greeting">Register for an account</string>
+    <string name="uname_hint">Email</string>
+    <string name="pword_hint">Password</string>
+    <string name="pword_hint_2">Confirm Password</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Register</string>
+    <string name="home_greeting">Successfully signed in as:</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">PhishApp</string>
+    <string name="nav_header_subtitle">phishapp.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
